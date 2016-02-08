@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstaView</string>
+    <string name="ProfilePic">ProfilePic</string>
+    <string name="instaPic">InstaPic</string>
+</resources>
